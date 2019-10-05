@@ -35,3 +35,393 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta content="IE=edge" http-equiv="X-UA-Compatible">
+  <meta content="width=device-width,initial-scale=1" name="viewport">
+  <meta content="description" name="description">
+  <meta name="google" content="notranslate" />
+  <meta content="Mashup templates have been developped by Orson.io team" name="author">
+
+  <!-- Disable tap highlight on IE -->
+  <meta name="msapplication-tap-highlight" content="no">
+
+  <link rel="apple-touch-icon" sizes="180x180" href="./assets/apple-icon-180x180.png">
+  <link href="./assets/favicon.ico" rel="icon">
+
+  <title>Title page</title>
+
+<link href="./main.d8e0d294.css" rel="stylesheet"></head>
+
+<body class="">
+
+<!-- Add your content of header -->
+<div class="background-color-layer" style="background-image: url('assets/images/img-01.jpg')"
+></div>
+<main class="content-wrapper">
+  <header class="white-text-container section-container">
+    <div class="text-center">
+      <h1>Stanton Wightwick</h1>
+      <p>Banker, I.T Student</p>
+      <p>S3819611</p>
+      <p>S3819611@student.rmit.edu.au</p>
+      <p>
+        <a class="fa-icon fa-icon-2x" href="https://www.facebook.com/stanton.wightwick/" title="">
+          <i class="fa fa-facebook"></i>
+        </a>
+        <a class="fa-icon fa-icon-2x" href="https://au.linkedin.com/in/stanton-wightwick-ab834878" title="">
+          <i class="fa fa-linkedin"></i>
+        </a>
+      </p>
+    </div>
+  </header>
+
+
+
+<!-- Add your site or app content here -->
+
+ <div class="container">
+   <div class="row">
+     <div class="col-xs-12">
+
+        <div class="card">
+          <div class="card-block">
+            <h2>About me</h2>
+            <div class="row">
+              <div class="col-md-4">
+                <p><img src="https://scontent-syd2-1.xx.fbcdn.net/v/t1.0-9/70032143_10156854461169585_3477459952409247744_n.jpg?_nc_cat=103&_nc_oc=AQlQKnCtrI4jlI_3YQKDLtPOf5rHCgPJf8pWlse3vVoIx7OHdYCOL5ikTc23JKNnUw8&_nc_ht=scontent-syd2-1.xx&oh=d4150098d4b7583089250543f8712b0d&oe=5E0F3BE3" class="img-responsive" alt=""></p>
+              </div>
+              <div class="col-md-8">
+
+              <p><i><u>I am a huge wristwatch enthusiast</u></i>, like seriously I am obsessed with them.
+<br><b>Disclaimer:</b> Avoid this hobby as best as you can, protect your wallet. Trust me!
+</p>
+              <p><i><u>Basketball is my favourite sport</u></i>, and perhaps my number one passion.
+              <br>I have played most of my life, and ball to this day.</p>
+              <p><i><u>I enjoy combat sports such as Boxing, Muay Thai and MMA</u></i>.
+                <br>I previously trained in Muay Thai and a little boxing during my younger years.</p>
+              <p><i><u>Interesting fact, my middle name is Hainan,</u></i>
+                <br>It was named after my mum's heritage, an island province of China, located in the South China Sea (think Hainanese chicken rice!)
+              </p>
+            </br><h4>Please continue to scroll down to learn more about me!</h4>
+
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-block">
+            <h2>Pictures of Passion!</h2>
+            <div class="row">
+              <div class="col-md-4">
+                <img src="https://scontent-syd2-1.xx.fbcdn.net/v/t1.0-9/70377257_10162661094635647_3503006520965070848_o.jpg?_nc_cat=100&_nc_oc=AQlS1BJzUgHdY7zoRRgfyTPxLJ0HUyVeP2n5qbSB6CPidZbqYTKNvwr2fhouBtgBWqk&_nc_ht=scontent-syd2-1.xx&oh=18cd0bc37efd9cdcbe51d67beb217ba6&oe=5DF467C5" class="img-responsive" alt="">
+                <h3 class="h5">#speedytuesday</h3>
+                <p>If you know, you know.</p>
+              </div>
+              <div class="col-md-4">
+                <img src="https://scontent-syd2-1.xx.fbcdn.net/v/t1.0-9/70174224_10162661094565647_1740357015043047424_n.jpg?_nc_cat=109&_nc_oc=AQngLhUTJaEJ8vjuzJNxkJuXbvMm-_Armu3yxsDbMiBBNlZIs68LOpbgPLpfivTIyYY&_nc_ht=scontent-syd2-1.xx&oh=c90e788bcbaaa212e2dcc9711ab8de74&oe=5E100265" class="img-responsive" alt="">
+                <h3 class="h5">#chefcurry!!</h3>
+                <p>I go for the LA Lakers though..</p>
+              </div>
+              <div class="col-md-4">
+                <img src="https://scontent-syd2-1.xx.fbcdn.net/v/t1.0-9/70375926_10162661094930647_7143842111576604672_o.jpg?_nc_cat=110&_nc_oc=AQmkMMIjF5Dc0AnYozR2YXhU1MvHApwU2rsGtMWXuK1vXfKDVV1A7ovNuWAHvi5_DZg&_nc_ht=scontent-syd2-1.xx&oh=0bdb75233061cba347d1da731e877e89&oe=5E0D17F6" class="img-responsive" alt="">
+                <h3 class="h5">#competition</h3>
+                <p>Me, a few years ago!</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-block">
+            <h2>My interest in IT</h2>
+            <div class="IT-interest">
+
+              <p>My interest is a blend of multiple aspects which encompass our technological driven world. From a personal, user experience standpoint (phone, email, computer etc.) I’ve always had an appeal for technology which focuses on convenience or ‘ease of life’. An example of an application I use every day is Bitwarden; it is an open-source, password management service, which provides both convenience and security in a neatly designed interface. Most recently I have been intrigued by specialised fields such as programming, learning a few basics in Python, and dabbling in VBA.</p>
+                <p>Overall, technology use has had a place in my life for as long as I can remember, and I believe learning it in a more formal setting will allow me to dive deeper into that interest, hopefully expanding my mind, unlocking my potential whilst revealing what is truly capable in a technologically driven world.</p>
+            </div>
+          </div>
+        </div>
+
+
+        <div class="card">
+          <div class="card-block">
+            <h2>The beginnings of my growing interest</h2>
+            <div class="IT-begin">
+
+              <p>My passion for IT really ramped up the last one to two years due to both my experiences with a mentor, and observing the trajectory of the banking industry. My most recent Team Leader absolutely was the initiator for it. It began with observing his proficiency with excel, VBA and html (to name a few) and ended with me working alongside him on many projects, truly opening my eyes as to what was capable with even a small amount of coding expertise. I began to personally incorporate excel to more efficiently complete tasks and to create useful tools and synthesize sets of data.</p>
+              <p>As an extension of the above, I began to view my own situation through a different lens. Currently I work in banking and there is a clear direction the industry is heading towards. With the emergence of many online only neobanks (e.g. 86 400, Up Bank, Xinja) and their focus on developing superbly designed iOS and android banking applications; to the ‘big 4’ banks increasing emphasis on technological infrastructural driven improvements - from automation of processes, machine learning, web development etc. it made it clear to me that I needed to keep up with this fast moving trend, I needed to take my career to the next level and hopefully be set myself up for the future with a well rounded skillset which could be easily transferrable to different jobs, industries and companies.</p>
+            </div>
+          </div>
+        </div>
+
+
+        <div class="card">
+          <div class="card-block">
+            <h2>My IT Experience</h2>
+                <div class="IT-experience">
+                  <p>Despite my parents who probably think I am <i>some IT wizard</i>, I still consider my IT experience minimal, at least if I were to consider any aspect at a 'mastery' level. Aside from day to day use of iPhone, my Dell work laptop and my home desktop; I’m proficient with most widely used software windows-based software such as Microsoft Word, Powerpoint, etc, as well as having basic knowledge of excel, with limited use of excel functions (e.g countif, vlookup, ). Additionally, I have learnt a little Python (mainly through Udemy, EDX, Youtube etc.), as well as HTML through <i>introduction to IT at RMIT.</i></p>
+                </div>
+              </div>
+            </div>
+
+
+        <div class="card">
+          <div class="card-block">
+            <h2>Why I chose RMIT</h2>
+              <div class="IT-RMIT">
+                <p>These thoughts of focused learning within I.T have been ongoing for a while, therefore one day I was browsing through Open Universities Australia (OUSA) courses and came across two that gained my initial intrigue; RMIT’s Bachelor of Information Technology and UniSA’s I.T and Data Analytics Degree. Within five to ten minutes a representative called me. I discussed with him what my current thoughts, explaining my observation on the banking industry’s shift towards technology, and what options I was considering. The OUA advisor personally recommended a bachelor of I.T through RMIT due to the university’s stellar reputation in technology fields (no surprise considering its name Royal Melbourne Institute of Technology), and it’s applicability to my own personal circumstance.
+              </div>
+            </div>
+          </div>
+
+          <div class="card">
+            <div class="card-block">
+              <h2>What do I expect to learn?</h2>
+                <div class="IT-learn">
+                  <p>I expect to learn what particular field/subset of I.T and programming I’m most drawn towards. Right now I’m very much neophyte, I have really had limited work experience, where most of the time it was excel use out of necessity; built for a specific banking purpose, such as basic data analysis or a 'checklist-type tool' for other banker's to utilise. In short, I’m not too sure what my ‘calling’ is. </p>
+                  <p>Additionally, I seek to build a rock-solid foundation in programming, familiarising myself with key concepts like variables, loops, sequences, arrays, functions etc. As I progress further within the course, hopefully I’ll paint a clearer picture for myself as to what career path I’m more suited for, what programming languages I should aim to gain expertise in. Furthermore, through the course and interactions with lecturers/tutors/other students, hopefully I can pick electives that will assist my overall goal as well (discrete mathematics? Propositional logic?). </p>
+                </div>
+              </div>
+            </div>
+
+            <div class="card">
+              <div class="card-block">
+                <h2>What is my Ideal Job?</h2>
+                  <div class="IT-job">
+                    <p>Honestly this is a difficult question to answer, as mentioned previously I am hoping this degree will me find clarity and direction. Although, I currently work in finance and it might seem a natural choice would be a business analyst or a similar role, I believe my interest lies more in the web development/app development side. With that in mind, I believe right now a good, far to reach goal would be to become a <i>full stack developer</i>, as it encompasses both expertise in the front and back end. Through learning client and server software, it may reveal where my interest lies most, and I have a general affinity for.</p>
+                    <p>Below is a role that encompasses contains all the elements I have just mentioned:</p>
+                    <p>
+                    <img src="https://scontent-syd2-1.xx.fbcdn.net/v/t1.0-9/70494044_10162661094610647_1107536447751061504_n.jpg?_nc_cat=100&_nc_oc=AQkV2g_z5zwtWLgPdMPcz8s_WXB3CEEZzrG5Jh3qViRezWM5wjXaSIS9ZUIeFJ_N8CI&_nc_ht=scontent-syd2-1.xx&oh=07a07a751119bf1295ab76becc3b2ef0&oe=5E04B39A" class="img-responsive" alt="">
+                    <p></p>
+                    <p>Please see this <u><a href="https://www.seek.com.au/job/39922268?type=standard&searchrequesttoken=bad8e5ef-afc6-44a8-92f4-1824f0a33b58"> seek link</a></u> to see the full position advertisement.</p>
+
+
+                  </br><h4>The skills, qualifications and experience required for the position: (as highlighted above)</h4>
+                    <ul>
+                      <li>Extensive experience in one or more of: Java, Node, Python</li>
+                      <li>Strong JavaScript experience - Ideally with React</li>
+                      <li>Solid experience in:</li>
+                        <ul>
+                          <li>Test-driven Development (TDD), Behaviour-driven Development (BDD)</li>
+                          <li>Continuous Integration (CI), Continuous Delivery (CD)</li>
+                        </ul>
+                      <li>Working Knowledge of Amazon Web Services</li>
+                      <li>Excellent strong written and verbal communication skills</li>
+                      <li>Strong problem-solving skills and an analytical approach</li>
+                      <li>Ability to deal with both technical and non-technical stakeholders</li>
+                    </ul>
+
+                  </br><h4>The applicable skills, qualifications and experience I have currently:</h4>
+                      <ul>
+                        <li>Very basic experience with Python</li>
+                        <li>Excellent strong written and verbal communication skills</li>
+                        <li>Strong problem-solving skills and an analytical approach</li>
+                        <li>Ability to deal with both technical and non-technical stakeholders </li>
+                      </ul>
+
+                    </br><h4>How will I obtain the skills, qualifications and experiences required?</h4>
+                      <p><u>Based on my current knowledge and capability, I will need to:</u>
+                        <ul>
+                          <li>Build a strong foundation in programming fundamentals (e.g. classes, methods, object-orientated, algorithms etc.)</li>
+                          <li>Speak with tutors/lecturers at RMIT and determine what electives I can choose which have the most relevance to my chosen path</li>
+                          <li>Put a concerted effort to learn:</li>
+                            <ul>
+                              <li>Java, Node or continue to learn Python</li>
+                              <li>Javascript + React</li>
+                              <li>Acquire knowledge in Amazon Web Services, + TDD/BDD & CI/CD progressively</li>
+                                <ul>
+                                  <li>The learning will be a combination of unversity teachings, as well as a commitment to continue to self learn through various online resources such as Udemy, EDX, Codeacademy, W3Schools and MDN to name a few.</li>
+                                </ul>
+                              </ul>
+                         </ul>
+                        </p>
+                        <p><u>A structured plan (based on my minimal knowledge!) may look like:</u></p>
+                          <ol>
+                              <li>Learn programming fundamentals</li>
+                                <ul>
+                                  <li>supplement by learning auxiliary processes/methodologies such as TDD/BDD & Ci/CD</li>
+                                </ul>
+                              <li>Continue to develop Python knowledge, practising and applying theory>
+                              <li>Learn Javascript & React</li>
+                                <ul>
+                                  <li>apply the relevant software engineering concepts once basics are learned (the aforementioned TDD/BDD etc.)
+                                </ul>
+                              <li>Build foundation in Amazon Web Services
+                              <li>Combine all elements through a personal project!
+                          </ol>
+                  </div>
+                </div>
+              </div>
+
+
+              <div class="card">
+                <div class="card-block">
+                  <h2>Personal Learning & Behavioural Profile</h2>
+                    <div class="IT-Behavioural">
+                      <h4>The results of the <u><a href="https://jupiter-34.appspot.com/"> MBTI Test</a></u></h4>
+                      <img src="https://scontent-syd2-1.xx.fbcdn.net/v/t1.0-9/70412359_10162661094465647_6623046059574689792_n.jpg?_nc_cat=100&_nc_oc=AQkxBGXnxBQ5GOnbYnzfHVfJZgZ7zoVAbYLSw7NigDVD4HqWiqHRk8fEt2205xPAr_0&_nc_ht=scontent-syd2-1.xx&oh=e94c5d7dd197459977d2ba0d5d5886b3&oe=5E38C8A6" class="img-responsive" alt="">
+                      <h4>The results of the <u><a href="https://bigfive-test.com/result/58a70606a835c400c8b38e84"> Big Five Personality Test</a></u></h4>
+                      <img src="https://scontent-syd2-1.xx.fbcdn.net/v/t1.0-9/70123357_10162661094490647_3190637380637818880_o.jpg?_nc_cat=105&_nc_oc=AQmLky2S5CXFGWg8Vj4xr7hTO_cxf4lsTIwE0pAPbGQLjxuDVeaIPxgQnZM47XSdkH0&_nc_ht=scontent-syd2-1.xx&oh=7c13d1e3d7b36638072d65dfd2239284&oe=5DFD5E47" class="img-responsive" alt="">
+                      <h4>The results of the <u><a href="http://www.educationplanner.org/students/self-assessments/learning-styles.shtml"> Education Planner Learning Style test</a></u></h4>
+                    </br><img src="https://scontent-syd2-1.xx.fbcdn.net/v/t1.0-9/69889587_10162661094515647_278701772162203648_n.jpg?_nc_cat=111&_nc_oc=AQnhnrRjKtpxMuhfwqxKAxoaGF0vtRwPkzyUshMfnTgE50B__aDk6bfKq2utlsaH1dE&_nc_ht=scontent-syd2-1.xx&oh=b9ddfc60039e00bd655b0ff5ddeba4ab&oe=5E3CB77A" class="img-responsive" alt="">
+                      <h4>What do the results of this test mean to me?</h4>
+                      <p>Honestly, from a learning perspective, not much as I am aware I learn primarily through Visuals and secondarily kinaesthetically. With the behavioural based tests MBTI & Big five, particulary the latter, it really highlighted specific aspects of myself which I didn't realise I had a propensity towards (e.g. Openness to Experience) and areas I didn't expect to have a neutrality for (such as conscientiousness). I will highlight though, both have me weighted more towards introversion rather than extraversion, it isn't a big difference, which makes complete sense, as my communication skills have really been honed from years in the workforce where face to face, email and phone interactions were a proportion of my day to day activities.</p>
+                      <h4>How may they influence my behaviour in a team?</h4>
+                      <p>My results (in particular from the big five test) show that I am well suited to a team based environment, particularly with scores in conscientiousness, agreeableness, however do note that I tend to have introverted tendencies, plus can have difficulty with maintaining self-discipline and motivation (please see <u><a href="https://bigfive-test.com/result/58a70606a835c400c8b38e84">this link</a></u> for more information). This may indicate that there will be times I do not initiate conversation/action, and that I may procrastinate when I should be more productive.
+                      <h4>How should I take this into account when forming a team?</h4>
+                      <p>I believe awareness of the aforementioned neutral/weaker aspects of my personality is key to optimising the team experience. Whilst the results indicate I am suited to team-based activites, they also suggest I fit best with an individual who is upbeat, energetic and motivating. This means when forming a team I should be clear about these aspects in the beginning, build open it with the right personalitles, so the right combination can be formulated for success.</p>
+
+
+
+                  </div>
+                </div>
+              </div>
+
+
+
+        <div class="card">
+          <div class="card-block">
+            <h2>Project Idea:
+            </br>
+          </br>Wristwatch Pricing Smartphone App</h2>
+            <h4>Overview</h4>
+            <p>Creating a smartphone application and accompanying website which will be the ultimate pricing resource for watch collectors, watch enthusiasts, casual watch buyers and watch related business.
+The app will contain an amalgamation of all pricing related information one would typically consider before purchasing a watch, such as analysing prices the cost country, per brand and model. Additionally it will highlight the price for brand new vs. second-hand. The app will aggregate all related information to highlight market trends, so the individual/business will have an accurate reference to refer during any sale or negotiation process.
+The focus will be to develop a smooth running app first due to convenience and wider reach, plus Android will be the priority due to the OS having the greatest amount of market share.</p>
+            <h4>Motivation</h4>
+            <p>Whilst still a relatively niche hobby, the demand is there and growing. Thanks to social media platforms such as Instagram, YouTube and Facebook. Instagram’s photo sharing environment has allowed individual’s to share their hobby to a wide audience globally, whilst also perpetuating increased brand awareness for businesses. Additionally, YouTube has provided a way for individuals to share their passion about watches through video, discussing everything from aesthetics to the watches movements and inner workings. Today, it is common to see ‘watch YouTuber’s’ with hundreds of thousands of views such as TGV and Teddy Baldassare. These combined forces should keep popularity going, therefore there is a gap in the market that could be capitalized on.
+In addition to this, from personal experience, I have observed it can be an extremely difficult process to buy or sell brand new and particularly second-hand/vintage watches, if you a want a fair deal. It requires hours upon hours, even years of research via forums, watch books and manually searching buy/sell prices (as it changes day by day) on a large volume of websites is a necessity. If that process can be made easier, it will only benefit the hobby and businesses involved as a whole.</p>
+            <h4>Description</h4>
+            <p>The ‘Watch app’ (yet to be named) is an industry changing wristwatch application which analyses global market pricing trends for all major watch brands, providing individuals and businesses with buying/selling pricing insights real time, along with a host of other useful watch related information and content.</p>
+            <p>The application will be smoothly integrated with both Android and iPhone, allowing access to the relevant information on mobiles anywhere, any time. Created for both people who are new to the hobby, and for veteran and experts, the pricing scope will encompass both brand new, second-hand and vintage watches.</p>
+            <p>The app will contain the following features:</p>
+            <ul>
+              <li>Watch Brands</li>
+                <ul>
+                  <li>From Seiko to Rolex, it will contain pricing of all major watch brands</li>
+                  <li>Relevant information on models</li>
+                  <li>o	Information based on condition (if second-hand)</li>
+                    <ul>
+                      <li>Pictures of the watch</li>
+                      <li>Close ups</li>
+                      <li>Movement information</li>
+                      <li>Years of production (history)</li>
+                    </ul>
+                  </ul>
+                <li>Location</li>
+                <ul>
+                  <li>Pricing of models  per country</li>
+                  <li>Dollar conversion</li>
+                  <li>Tiering system, highlighting countries from least to most affordable based on global market information</li>
+                </ul>
+                <li>Pricing Trends</li>
+                <ul>
+                  <li>Via aggregation through all major watch brands websites and authorised retailers</li>
+                  <li>Includees secondary market buying websites (chrono24, watchrecon, timezone,)</li>
+                </ul>
+                <li>Where to Buy (list of stores)</li>
+                <ul>
+                  <li>Boutiques</li>
+                  <li>Second-hand watch dealers</li>
+                  <li>Jewellery stores</li>
+                </ul>
+                <li>Upload watch individuals collection/Company inventory</li>
+                <ul>
+                  <li>Track real time pricing of each individual piece</li>
+                  <li>Total value of collection</li>
+                  <li>Share collection information with others</li>
+                </ul>
+                <li>Relevant Pricing news</li>
+                <ul>
+                  <li>New model releases</li>
+                  <li>Well-known Auction updates</li>
+                  <li>Syncs up with popular watch news/blog websites (e.g. Hodinkee, Watchville etc.)</li>
+                </ul>
+               </ul>
+             </ul>
+            <h4>What are the potential drawbacks? Concerns?</h4>
+              <ul>
+                <li>Aggregating pricing information from all sources and combining into presentable package may be a difficult task</li>
+                <li>May require a substantial amount of research, which would take a long time to achieve</li>
+                <li>How can this application be monetized? It’s important that the application remain autonomous from brands</li>
+                <li>What would the pricing structure be like? Memberships? What content is free?</li>
+                <li>Security? Care would have to be taken to secure customer’s personal information, as the people who would use this app can often have assets which are worth a lot of money</li>
+              </ul>
+            <h4>Potential Tools and Technologies</h4>
+            <ul>
+              <li>Computer/laptops with Windows/Linux and macOS for development of Android and iOS application</li>
+              <li>Programming languages & auxiliary software/applications</li>
+              <ul>
+                <li>Java and Swift - for developing Android and iOS applications</li>
+                <li>HTML5, CSS, Javascript - for web development</li>
+                <li>CocoaPods - dependency manager, databases, scaling the project</li>
+                <li>Xamarin - to ensure smooth cross platform development between Android and iOS</li>
+                <li>Github -  organisation of programming, ease of collaboration</li>
+                <li>Xcode -  continuous Integration, Continuous Delivery</li>
+              </ul>
+            </ul>
+            <h4>Potential Skills Required</h4>
+            <ul>
+              <li>Developers (design)</li>
+                <ul>
+                  <li>UI/UX Designer</li>
+                  <li>Wire framing</li>
+                  <li>Interface layout + design</li>
+                </ul>
+              </ul>
+              <ul>
+                <li>Developers (programming)</li>
+                  <ul>
+                    <li>Java and Swift</li>
+                    <li>HTML, CSS and Javascript</li>
+                    <li>Experience with Xamarin, Xcode, Cocoapods preferable</li>
+                  </ul>
+              <li>Marketing expert</li>
+               <ul>
+                 <li>SEO specialist</li>
+                 <li>Expert at navigating Social Media</li>
+               </ul>
+              <li>Business Capability + Market Research (watch business experience preferred)</li>
+            </ul>
+            <h4>Outcome</h4>
+            <p>The goal is for the application to provide valuable information in a convenient package to watch buyers of different levels of interest. Individuals and businesses shouldn’t need to put in hours and hours of research in order to work out whether you are paying the right price for a specific model. Ultimately the application would result in an optimised environment for watch knowledge, buying/selling and improved market accessibility and condition.</p>
+
+                </div>
+              </div>
+            </div>
+          </div>
+
+
+
+
+          <div class="card">
+            <div class="card-block">
+              <h2>References</h2>
+                  <div class="IT-references">
+                    <p>Mobile Operating System Market Share Worldwide Aug 2018-Aug 2019. StatCounter Global Stats. [Online]. [13 September 2019]. Available from: <u><a href="https://gs.statcounter.com/os-market-share/mobile/worldwide"> https://gs.statcounter.com/os-market-share/mobile/worldwide </a></u></p>
+                    <p>26 best mobile app development tools in 2019. 2019. Guru99com. [Online]. [15 September 2019]. Available from:  <u><a href="https://www.guru99.com/mobile-app-development-tools.html"> https://www.guru99.com/mobile-app-development-tools.html</a></u></p>
+                    <p>Vohra, N. 2016. 7 Things you must absolutely do before writing an iOS app. [Online]. [14 September 2019]. Available from: <u><a href="https://medium.com/ios-os-x-development/7-things-you-must-absolutely-do-before-writing-an-ios-app-a8bacf710c57"> https://medium.com/ios-os-x-development/7-things-you-must-absolutely-do-before-writing-an-ios-app-a8bacf710c57 </a></u></p>
+                    <p>Educationplannerorg. 2019. What's your learning style?. [Online]. [6 September 2019]. Available from: <u><a href="http://www.educationplanner.org/students/self-assessments/learning-styles.shtml"> http://www.educationplanner.org/students/self-assessments/learning-styles.shtml</a></u></p>
+                    <p>Bigfive-test.com. 2019. Bigfive-testcom. [Online]. [10 September 2019]. Available from: <u><a href="https://bigfive-test.com/result/58a70606a835c400c8b38e84"> https://bigfive-test.com/result/58a70606a835c400c8b38e84</a></u></p>
+                    <p>Seek.com.au. 2019. Full Stack Node / React Developer. [Online]. [13 September 2019]. Available from: <u><a href="https://www.seek.com.au/job/39922268"> https://www.seek.com.au/job/39922268</a></u></p>
+                    <p>Appspotcom. 2019. Appspot Myer's Briggs Test . [Online]. [9 September 2019]. Available from: <u><a href="https://jupiter-34.appspot.com/"> https://jupiter-34.appspot.com/</a></u></p>
+                </p>
+                  </div>
+                </div>
+              </div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function (event) {
+     scrollRevelation('.card');
+  });
+</script>
+
+
+--><script type="text/javascript" src="./main.bc58148c.js"></script></body>
+
+</html>
